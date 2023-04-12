@@ -1,0 +1,9 @@
+:root{
+    --pri-color : blueviolet
+}
+
+
+.heroImg{
+    background-color: var(--pri-color);
+    height: calc(100vh - 250px);
+}
